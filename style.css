@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+.display-4 {
+    font-family: 'Open Sans', sans-serif;
+    color: black;
+    font-style: bold;
+    background-color: rgb(188, 225, 255);
+    text-align: center;
+}
+
+ion-icon { 
+    color:whitesmoke;
+    --ionicon-stroke-width: 80px;
+  }
+
+.green{
+  background-color: green;
+}
+.yellow{
+  background-color: yellow;
+}
+.orange{
+  background-color: orange;
+}
+.red{
+  background-color: red;
+}
+
+.purple{
+  background-color: purple;
+}
